@@ -1,0 +1,60 @@
+#home_explain {
+    text-align: center;
+    font-size: large;
+    margin-top: 40px;
+}
+
+#home_body {
+    text-align:left;
+    padding-left: 500px;
+    margin-top: 50px;
+}
+
+#hello {
+    font-size: 20px;
+    text-align: center;
+    color: darkgreen;
+    font-style: italic;
+    margin-top: 40px;
+}
+
+#interest_header {
+    padding-left: 70px;
+}
+
+#joy_image {
+    padding-top: 30px;
+}
+
+#interest_list {
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+#other_interest {
+    padding-right: 950px;
+    padding-left: 100px;
+}
+
+#v-pills-schedule {
+    margin-top: 40px;
+    padding-right: 300px;
+    padding-left: 300px;
+}
+
+body {
+    background: #eee;
+  }
+
+.list li {
+    list-style: none;
+    padding: 10px;
+    border: 1px solid #e3dada;
+    margin-top: 12px;
+    border-radius: 5px;
+    background: #fff;
+}
+
+img {
+    border-radius: 12px;
+}
